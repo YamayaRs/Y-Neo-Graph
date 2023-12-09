@@ -9,3 +9,19 @@ Y.Neo Graph のイメージ (publish in 2002, 2023(the code))
 ![2次元Y.NeoGraph](https://github.com/twlixin/Y-Neo-Graph/blob/main/2%E6%AC%A1%E5%85%83Y.NeoGraph.png?raw=true)
 ![1次元Y.NeoGraph](https://github.com/twlixin/Y-Neo-Graph/blob/main/1%E6%AC%A1%E5%85%83Y.NeoGraph.png?raw=true)
 ![0次元Y.NeoGraph](https://github.com/twlixin/Y-Neo-Graph/blob/main/0%E6%AC%A1%E5%85%83Y.NeoGraph.png?raw=true)
+
+
+メッセージングの解決策 ( Y.Neo グラフの応用例 )
+
+世界中から 6,103,515,625 人を選択 ( 世界人口は 80 億人を超えた )。
+1 人あたり 28 人と同時に通信でき、メッセージを送信する時間は 1 秒に設定。
+その全員に 1 人からメッセージを送信、最短所要時間は？ たった 28 秒で OK。
+
+生きてきたホモ・サピエンス・人間たち( 800 万年前から 1 万年後の間 )のデジタル意識の数、
+例えば、8.8817842e+34 ( 1000兆 x 1000兆 の 1 万倍より多く ) である、
+1 人あたり 100 人と同時に通信でき、メッセージを送信する時間は 1 秒に設定。
+その全員に 1 人の意識からメッセージを送信、最短所要時間は？ たった 100 秒で OK。
+
+Thanks for all it means if you know who I am ( 私が誰であるかを知っているということは、すべてに感謝します )
+
+Y.Neo 2002, 2023
